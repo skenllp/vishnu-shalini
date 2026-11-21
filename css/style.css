@@ -767,6 +767,7 @@ body:not(.is-revealed) #site *{animation-play-state:paused!important}
   display:block;width:100%;aspect-ratio:4/3;object-fit:cover;
   margin:0 auto clamp(22px,4vw,30px);border:1px solid rgba(193,150,47,.32);
 }
+.family-card-photo--portrait{aspect-ratio:3/4;object-position:center top;margin-top:calc(-1 * clamp(10px,2vw,16px))}
 .card--family .card-ico{margin-inline:auto;color:var(--brass)}
 .family-tag{font-size:9.5px;letter-spacing:.3em;text-transform:uppercase;color:var(--brass);margin-bottom:18px}
 .family-name{font-family:var(--f-display);font-weight:400;font-size:clamp(20px,5vw,26px);color:var(--ink);line-height:1.3}

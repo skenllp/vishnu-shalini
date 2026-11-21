@@ -33,8 +33,8 @@
     groomAddressLines: ['Karikkal House, Myleellampaara', 'Puthupady'],
 
     brideFather: 'Sri. Shyam Nair',
-    brideMother: '',
-    brideParents: 'Sri. Shyam Nair',
+    brideMother: 'Shani syam',
+    brideParents: 'Sri. Shyam Nair & Sreemathi. Shani syam',
     brideAddress: 'Vaakayil, Kaithapoyil, Valliyad',
     brideAddressLines: ['Vaakayil, Kaithapoyil', 'Valliyad'],
 
