@@ -17,9 +17,9 @@
     weddingDay: 'Sunday',
     weddingDateLong: 'Sunday, 31 January 2027',
     weddingDateShort: 'Sun, 31 Jan 2027',
-    dateNumeric: '30 • 01 • 2027',
+    dateNumeric: '31 • 01 • 2027',
     /* Countdown target — Muhurtham start, India Standard Time */
-    countdownTarget: '2027-01-30T15:00:00+05:30',
+    countdownTarget: '2027-01-31T15:00:00+05:30',
 
     muhurtham: '10:00 AM – 11:00 AM',
     weddingVenue: 'Chemmarampatta Parish Hall',
@@ -38,17 +38,17 @@
     brideAddress: 'Vaakayil, Kaithapoyil, Valliyad',
     brideAddressLines: ['Vaakayil, Kaithapoyil', 'Valliyad'],
 
-    receptionDate: '30 January 2027',
-    receptionDateLong: 'Saturday, 30 January 2027',
-    receptionDateShort: 'Sat, 30 Jan 2027',
+    receptionDate: '31 January 2027',
+    receptionDateLong: 'Sunday, 31 January 2027',
+    receptionDateShort: 'Sun, 31 Jan 2027',
     receptionTime: '3:00 PM – 10:00 PM',
     receptionVenue: 'Pre-Wedding Celebration',
     receptionAddress: 'Puthupady',
     receptionAddressLines: ['Puthupady'],
 
     /* Google Maps share links */
-    weddingMap: 'https://maps.app.goo.gl/H5AhYxUmRWpGAS9z6',
-    receptionMap: 'https://maps.app.goo.gl/hNGEoditq5LzZLxaA'
+    weddingMap: 'https://maps.app.goo.gl/W1AT2qpKF1G3xhdh8',
+    receptionMap: 'https://maps.app.goo.gl/MwnNqC9tCt6Pks5E6'
   };
 
   function mapsSearch(query) {
